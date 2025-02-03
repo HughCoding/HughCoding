@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you.</h1>
 
-Hi there! I'm Hugo, a backend dev from Brazil! 
+**Automação de IA, análise de dados e machine learning. Estou sempre explorando novas maneiras de otimizar processos e contar histórias através dos dados. Meu foco é transformar dados brutos em insights acionáveis com inovação e eficiência**
 
 
 # 🛠️ Technologies & Tools that I use frequently:
