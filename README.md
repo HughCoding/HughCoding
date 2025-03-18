@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you.</h1>
 
-**Automação de IA, análise de dados e machine learning.**
+**Automação de IA e machine learning.**
 
 
 # 🛠️ Technologies & Tools that I use frequently:
